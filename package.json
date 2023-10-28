@@ -1,0 +1,16 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "a basic chat app for learing socket io",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "zahin hosen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.2"
+  }
+}
