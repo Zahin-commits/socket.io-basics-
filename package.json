@@ -4,7 +4,8 @@
   "description": "a basic chat app for learing socket io",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "test": "nodemon server.js",
+    "start": "node server.js"
   },
   "author": "zahin hosen",
   "license": "ISC",
